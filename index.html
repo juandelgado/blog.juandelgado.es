@@ -1,0 +1,13 @@
+---
+layout: default
+title: Juan Delgado
+---
+
+<div id="home">
+	{% assign last_post = site.posts.first %}
+	<h2><a href="{{ last_post.url }}">{{ last_post.title }}</a></h2>
+  <div>
+  	<p>{{ last_post.date | date_to_string }}</p>
+  	{{ last_post.content }}
+  </div>
+</div>
