@@ -28,7 +28,7 @@ We peaked at [ADB's source code](https://github.com/android/platform_system_core
 
 **Nothing worked**.
 
-We were not on the right track until we realised that the error was showing up after long periods of inactivity (in the range of hours). What about we write a silly script that calls "pings" the device every 10 seconds?
+We were not on the right track until we realised that the error was showing up after long periods of inactivity (in the range of hours). What about we write a silly script that "pings" the device every 10 seconds?
 
 **Bliss**.
 
