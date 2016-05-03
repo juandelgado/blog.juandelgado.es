@@ -1,7 +1,6 @@
 name: Juan Delgado
 description: Software ramblings and rants!
 url: http://blog.juandelgado.es
-markdown: redcarpet
-pygments: true
 timezone: Europe/London
 permalink: pretty
+highlighter: rouge
