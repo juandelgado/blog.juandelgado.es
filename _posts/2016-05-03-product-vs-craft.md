@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Product vs Craft"
-date:   2016-05-03 10:00:00
 ---
 
 It's only in a week's time that I will kick off at [Agile Manchester](http://agilemanchester.net/2016/) a series of talks around the topic of craft in the software industry. The talk is titled "Product vs Craft" and the main premise is this:
 
 > Effective software engineers should adapt the way they develop software based on the product vision and at which point in the life cycle the product is.
 
-In a business / commercial context, which is where most of software is being developed these days, code should be a means to an end and not an end in itself. 
+In a business / commercial context, which is where most of software is being developed these days, code should be a means to an end and not an end in itself.
 
 Sadly, in the last few years a big part of the industry has taken a blanket approach to software development by which you are either executing to the highest of your abilities at all times or you are doing it wrong.
 
