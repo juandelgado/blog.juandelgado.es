@@ -18,6 +18,7 @@ So if you are up for the discussion, please [give me a shout on Twitter](https:/
  * 11th May, [Agile Manchester](http://agilemanchester.net/2016/).
  * 13th May, [NCrafts](http://ncrafts.io/), Paris.
  * 2nd June, [Agile Delivery](http://agile.delivery/), London.
+ * 15th June, [London Software Crafsmanship Community](http://www.meetup.com/london-software-craftsmanship/events/231798303/).
  * 16th June, [Modern Web Event](http://modernwebevent.com/session/product-vs-craft/), Bilbao.
 
 There are a couple more pending confirmation and if you happen to be an organiser and think this would be an interesting topic for your conference get in touch, always happy to keep the conversation going if it fits around professional and family duties.
@@ -31,5 +32,6 @@ Also, attendees have asked for links mentioned during the talk, so here they com
 *  [Jocelyn Goldfein’s experience about the ‘right’ way of building software](http://firstround.com/review/the-right-way-to-ship-software/).
 *  [Cross build injection (XBI) explanation at Oredev 2014](https://youtu.be/ES9hWkn_WBA?t=1663). Watch the whole talk, learning about security is worth it!
 *  [Making robust software](http://www.verticalsysadmin.com/making_robust_software/), aka, what it takes to put car-sized robots in Mars.
+*  [Enough front and back, it's all about the product](/2015/02/03/enough-front-and-back-all-about-the-product/).
 *  [Product vs Craft on the ustwo blog](https://ustwo.com/blog/product-vs-craft).
 *  A slightly modified version of the [slides as a PDF](/files/juan_delgado_product_vs_craft_standalone.pdf) that can be clicked through without me speaking and still make some sense. These are more for the people that have attended one of the conferences and just want to remember something. If you haven't watched it I'd avise to go through the recording instead.
