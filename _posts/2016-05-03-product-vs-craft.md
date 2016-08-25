@@ -21,6 +21,7 @@ So if you are up for the discussion, please [give me a shout on Twitter](https:/
  * 15th June, [London Software Crafsmanship Community](http://www.meetup.com/london-software-craftsmanship/events/231798303/).
  * 16th June, [Modern Web Event](http://modernwebevent.com/session/product-vs-craft/), Bilbao.
  * 28th July, [NSLondon](https://www.meetup.com/NSLondon/events/232748596/).
+ * 27th October, [Droidcon UK](http://uk.droidcon.com/#program), London.
 
 If you happen to be an organiser and think this would be an interesting topic for your conference get in touch, always happy to keep the conversation going if it fits around professional and family duties.
 
