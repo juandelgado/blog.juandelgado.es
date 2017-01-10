@@ -15,7 +15,7 @@ We are a very inquisitive group of people, not really interested in just executi
 
 The Head of Engineering role is a pretty key role in all of that. Swing by the official job ad for full details, but I can tell you that the main responsibilities are projects, ways of working and people. Always an interesting challenge in a multi-million pound digital studio expected to output utter quality on everything we do.
 
-You also get to work side by side, learn from and be inspired by awesome people like [Nicki Sprinz](https://twitter.com/sprinzette), [Cara Bermingham](https://twitter.com/bermsville), [James Higgs](https://twitter.com/higgis), [Adam Tylor](https://twitter.com/adamtaylo), uhhhh [Mills](https://twitter.com/millsustwo), [Jess Tyrrell](https://twitter.com/jesstyrr), [Ume Pandya](https://twitter.com/the_ume) and many, many more.
+You also get to work side by side, learn from and be inspired by awesome people like [Nicki Sprinz](https://twitter.com/sprinzette), [Cara Bermingham](https://twitter.com/bermsville), [James Higgs](https://twitter.com/higgis), [Adam Taylor](https://twitter.com/adamtaylo), uhhhh [Mills](https://twitter.com/millsustwo), [Jess Tyrrell](https://twitter.com/jesstyrr), [Ume Pandya](https://twitter.com/the_ume) and many, many more.
 
 Important to note that we are trying as hard as we can to put together a diverse list of candidates, hence actively encouraging people from underrepresented groups to apply. We take diversity **and inclusion** seriously ([check our data and read more about our efforts in the ustwo blog](https://ustwo.com/blog/diversity-dashboard)). Note that previous experience managing engineers is a big bonus, but not a must.
 
