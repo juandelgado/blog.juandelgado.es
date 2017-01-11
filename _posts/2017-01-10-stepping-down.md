@@ -13,7 +13,7 @@ We do amazing work for clients ([Sky Kids](https://ustwo.com/blog/sky-kids-desig
 
 We are a very inquisitive group of people, not really interested in just executing briefs, but in collaborating with our clients to find solutions to their business problems. And then build them.
 
-The Head of Engineering role is a pretty key role in all of that. Swing by the official job ad for full details, but I can tell you that the main responsibilities are projects, ways of working and people. Always an interesting challenge in a multi-million pound digital studio expected to output utter quality on everything we do.
+The Head of Engineering role is a pretty key role in all of that. Swing by [the official job ad](https://ustwo.workable.com/jobs/407629) for full details, but I can tell you that the main responsibilities are projects, ways of working and people. Always an interesting challenge in a multi-million pound digital studio expected to output utter quality on everything we do.
 
 You also get to work side by side, learn from and be inspired by awesome people like [Nicki Sprinz](https://twitter.com/sprinzette), [Cara Bermingham](https://twitter.com/bermsville), [James Higgs](https://twitter.com/higgis), [Adam Taylor](https://twitter.com/adamtaylo), uhhhh [Mills](https://twitter.com/millsustwo), [Jess Tyrrell](https://twitter.com/jesstyrr), [Ume Pandya](https://twitter.com/the_ume) and many, many more.
 
