@@ -37,6 +37,18 @@ There are many reasons why developers become managers, but if making people the 
 
 Start waving code goodbye too, by the way. I'm not saying that you don't get the odd chance of rolling up your sleeves and grab a keyboard, but most times you are probably going to be looking at pull requests, pair programming (as the copilot) or discussing development topics at a high level.
 
+UPDATE: Miriam [asked](https://twitter.com/miphoni/status/849722184922804224):
+
+> (How) did you manage to stay on top of dev topics with limited hands-on time yourself? [...] pair programming, pull request reviews and technology studies - where did you draw the line?
+
+For context, at ustwo London most of the work is over 4 platforms: iOS, Android, web (mostly front, but increasingly more back as well) and test automation (Espresso, UI Automation, Appium...).
+
+It's impossible for one person to keep on top of latest libraries or frameworks for all the platforms. At least I can't. So how do you do pair programming or review a pull request?
+
+Because instead of advising at the platform level you advise at the application or architecture level: "_Is that the right abstraction? Is that testeable code? Is that secure? Isn't it too early for that optimization?_". That kind of stuff. I can read and understand enough of the code to be able to ask those questions. 
+
+Still, how to keep up on top of tech in general? Well, much like everyone else: reading, listening and asking as much as you can. Team and platform specific Slack channels, reading blogs, tech news sites, team weeklies, etc.
+
 For a more in-depth view on the developer to manager path Cate Huston has an excellent series on becoming a technical manager ([time management](https://cate.blog/2017/01/05/things-to-figure-out-as-a-new-manager-part-1-your-schedule/), [social support](https://cate.blog/2017/01/12/things-to-figure-out-as-a-new-manager-part-2-social-support/), [communication](https://cate.blog/2017/01/19/things-to-figure-out-as-a-new-manager-part-3-communication/)).
 
 ## The role
