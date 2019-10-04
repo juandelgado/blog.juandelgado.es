@@ -1,10 +1,15 @@
+DOCKER_COMPOSE := docker-compose
+
 default: run
-run:
-	jekyll serve --watch --future -H `ipconfig getifaddr en0`
 
-dev:
-	gem install bundler
-	bundle install
+build:
+	@$(DOCKER_COMPOSE) build
+.PHONY: build
 
-# Getting the local IP might only work on OSX as per this:
-# http://stackoverflow.com/questions/13322485/how-to-i-get-the-primary-ip-address-of-the-local-machine-on-linux-and-os-x#comment55226952_13322549
+run: build
+	@$(DOCKER_COMPOSE) up
+.PHONY: run
+
+clean:
+	@$(DOCKER_COMPOSE) down
+.PHONY: clean
