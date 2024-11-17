@@ -1,21 +1,20 @@
 DOCKER := docker
-DOCKER_COMPOSE := docker-compose
 PWD ?= $(shell pwd)
 
 default: run
 
 build:
-	@$(DOCKER_COMPOSE) build
+	@$(DOCKER) compose build
 .PHONY: build
 
 run: build
-	@$(DOCKER_COMPOSE) up
+	@$(DOCKER) compose up
 .PHONY: run
 
 clean:
-	@$(DOCKER_COMPOSE) down
+	@$(DOCKER) compose down
 .PHONY: clean
 
 lock:
-	@$(DOCKER) run --rm -v $(PWD):/usr/src/app -w /usr/src/app ruby:2.5 bundle install
+	@$(DOCKER) run --rm -v $(PWD):/usr/src/app -w /usr/src/app ruby:3.3.6 bundle install
 .PHONY: lock
